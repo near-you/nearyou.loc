@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "nearyou\\": "vendor/nearyou/core",
+      "app\\": "app"
+    }
+  },
+  "require": {
+
+  }
+}
